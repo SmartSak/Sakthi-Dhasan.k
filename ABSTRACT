@@ -1,0 +1,4 @@
+The project is IoT Based Smart lights And Vechile Crossing Alert with Indication  Systems In Hill Station With the  help of an PIR Sensor, we will control the smart light and alert the crossing vechiles.
+When if any vehicle is crossing the sensor above  the lights blow automatically because of the  sensor triggered.
+This project presents an advance lighting system to minimize the wastage of electrical power and save electricity. For this purpose we are using Arduino, Light Dependent Resistor(LDR) and Passive Infrared (PIR) motion sensor. Light will be switched on when LDR detects moment. 
+We are using LDR to reduce unnecessary wastage of power during daytime and increase the efficiency of system. This project can also work as a security system. This project can also be used in smart light system.
